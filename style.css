@@ -1,0 +1,11 @@
+.body_background {
+    background-image: url("https://i.pinimg.com/originals/34/4d/8f/344d8f8a98ad8b8db6359849d24d78f7.gif");
+    background-size: cover;
+}
+
+#myCanvas {
+    background-color: white;
+    border-style: ridge;
+    border-width: 10px;
+    ;
+}
